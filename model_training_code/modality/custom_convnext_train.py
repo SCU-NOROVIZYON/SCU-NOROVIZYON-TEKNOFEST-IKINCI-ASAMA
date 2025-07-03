@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ================== IMPORTS ===================
 import os
 import numpy as np
