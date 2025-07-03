@@ -3,7 +3,7 @@
 Bu repo, **Teknofest Sağlıkta Yapay Zeka Yarışması**nın 2. aşamasında kullanılan modellerin eğitim kodlarını, ağırlıklarını ve sonuçlarını içermektedir. Çalışmada, farklı medikal görüntüleme teknikleriyle eğitilen modeller ve bu modellerin topluluk (ensemble) yöntemleriyle birleştirilmiş sonuçları sunulmaktadır.
 
 ## 📁 Klasör Yapısı
-.
+
 ├── model_training_code/  
 ├── model_weights/  
 └── results/
