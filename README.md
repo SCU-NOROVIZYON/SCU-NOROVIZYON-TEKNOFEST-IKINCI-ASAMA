@@ -4,8 +4,8 @@ Bu repo, **Teknofest Sağlıkta Yapay Zeka Yarışması**nın 2. aşamasında ku
 
 ## 📁 Klasör Yapısı
 .
-├── model_training_code/
-├── model_weights/
+├── model_training_code/  
+├── model_weights/  
 └── results/
 
 ### 1. `model_training_code/`
